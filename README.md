@@ -1,17 +1,17 @@
 # LLM Project
 
 ## Project Task
-(fill in details about your chosen project)
+Selected topic modelling of the 20 Newsgroups dataset to map topics to the information provided.
 
 ## Dataset
-(fill in details about the dataset you're using)
+20 Newsgroups is a dataset with over 18000 observations (split into training/testing data) from newsgroups that can be assigned to 20 topics.
 
 ## Pre-trained Model
-(fill in details about the pre-trained model you selected)
+The pre-trained model selected was a distill-BERT model.
 
 ## Performance Metrics
-(fill in details about your chosen metrics and results)
+Model performance was okay, with an accuracy of ~25% in topic modelling.
 
 ## Hyperparameters
-(fill in details about which hyperparemeters you found most important/relevant while optimizing your model)
+Trial #7 had the best performance using the modified parameters of learning rate, batch size, and epochs. 
 
